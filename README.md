@@ -9,7 +9,7 @@
 ![Overview of Customer Churn](images/Screenshot 2024-09-10 080811.png)
 
 ### 2. Churn by Region
-![Churn by Region](images/churn_by_region.png)
+![Churn by Region]()
 
 ### 3. Monthly Charges vs Churn
 ![Monthly Charges vs Churn](images/monthly_charges_vs_churn.png)
