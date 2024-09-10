@@ -6,8 +6,8 @@ This project analyzes telecom customer churn data to identify factors leading to
 ## Dashboard Screenshots
 
 ### 1. Overview of Customer Churn
-![Overview of Customer Churn](images/churn_overview.png)
-This pie chart illustrates that 26.54% of customers churned, while 73.46% did not churn. This highlights a significant portion of retained customers, indicating effective retention strategies may already be in place. However, there is potential to further optimize strategies to reduce churn and enhance overall customer satisfaction.
+![Overview of Customer Churn](images/dashboard_overview.png)
+This pie chart illustrates that 26.54% of customers churned, while 73.46% did not. This highlights a significant portion of retained customers, indicating that effective retention strategies may already exist. However, there is potential to optimize further strategies to reduce churn and enhance overall customer satisfaction.
 
 ### 2. Churn Based on Senior Citizen Status
 ![Churn Based on Senior Citizen](images/churn_senior_citizen.png)
@@ -27,7 +27,7 @@ The graph illustrates varying customer retention across contract types, with a n
 
 ### 6. Churn Due to Type of Internet
 ![Churn Due to Type of Internet](images/churn_due_to_internet_type.png)
-The analysis suggests investigating fiber optic issues and improving support related to internet types to boost customer retention. Addressing these issues may reduce churn and enhance customer satisfaction.
+The analysis suggests investigating fibre optic issues and improving support related to internet types to boost customer retention. Addressing these issues may reduce churn and enhance customer satisfaction.
 
 ## View the Project on Tableau Public
 Interact with the full dashboard on [Tableau Public](https://public.tableau.com/app/profile/akash.thiruveedula/viz/mytelecomcustomerchurnproject/Story1).
