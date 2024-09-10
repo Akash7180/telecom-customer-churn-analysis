@@ -1,2 +1,3 @@
 # telecom-customer-churn-analysis
-[![Tableau](https://public.tableau.com/app/profile/akash.thiruveedula/vizzes)](https://public.tableau.com/app/profile/akash.thiruveedula/viz/mytelecomcustomerchurnproject/Story1)
+## View the Project on Tableau Public
+You can interact with the dashboard on [Tableau Public](https://public.tableau.com/app/profile/akash.thiruveedula/viz/mytelecomcustomerchurnproject/Story1).
